@@ -19,7 +19,7 @@
 
 #pragma once
 
-// #include "config_common.h"
+#include "config_common.h"
 
 // For reliable USB detection
 #define CH_CFG_ST_FREQUENCY                 750000
