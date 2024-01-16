@@ -4,6 +4,7 @@
     "maintainer": "WillWill56",
     "width": 17,
     "height": 6,
+    "bootloader": "sn32-dfu",
     "layouts": {
         "LAYOUT_tkl_ansi": {
             "layout": [
